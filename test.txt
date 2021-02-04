@@ -1,1 +1,2 @@
 https://github.com/Etistar/Deep-learning.git
+cool
